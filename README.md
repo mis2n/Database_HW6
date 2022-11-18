@@ -8,8 +8,8 @@ on Windows 10 or later. These Instructions assume MySQL is already installed and
 SUPPLIER-PART-SHIPMENT database has been created.
 
 Below are links where the necessary servers can be downloaded along with installation instructions:
-	MySQL Server:			https://www.mysql.com/
-	XAMPP Server (Windows):		https://www.apachefriends.org/
+	<br>MySQL Server:			https://www.mysql.com/
+	<br>XAMPP Server (Windows):		https://www.apachefriends.org/
 
 For information on configuring XAMPP see:
 	https://www.geeksforgeeks.org/how-to-set-php-development-environment-in-windows/?ref=lbp
