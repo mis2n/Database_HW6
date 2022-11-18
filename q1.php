@@ -13,7 +13,7 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
-$query = "INSERT INTO snp.shipment (Sno, Pno, Qty, Price) VALUES ('s6', 'p1', 200, 0.006);";
+$query = "INSERT INTO snp.shipment (Sno, Pno, Qty, Price) VALUES ('s2', 'p3', 200, 0.006);";
 
 try{
     $results = $conn->query($query);

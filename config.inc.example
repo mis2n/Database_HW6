@@ -1,0 +1,8 @@
+<?php
+
+$servername = "localhost";
+$username = "root";
+$password = "ENTER_PASSWORD_HERE";
+$dbname = "ENTER_DATABASE_NAME";
+
+?>

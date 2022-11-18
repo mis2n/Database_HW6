@@ -2,7 +2,7 @@
 <body style="background-color:#A09C9C;">
 <title>Query 4</title>
 <div style="text-align: left; background-color:#97D2EC;">
-<h1>Shipment Table</h1>
+<h1>Supplier Table</h1>
 <br>
 <br>
 

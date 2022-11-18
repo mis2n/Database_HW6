@@ -4,7 +4,7 @@
 <div style="text-align: left; background-color:#97D2EC;">
 <h1>Shipment Table</h1>
 <br>
-<h2>New Entry Included</h2>
+
 
 <?php
 require_once('config.inc');
