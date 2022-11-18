@@ -9,8 +9,8 @@ SUPPLIER-PART-SHIPMENT database has been created.
 
 Below are links where the necessary servers can be downloaded along with installation instructions:
 
-	MySQL Server:			https://www.mysql.com/
-	XAMPP Server (Windows):		https://www.apachefriends.org/
+	MySQL Server:			<a href='https://www.mysql.com/'>https://www.mysql.com/<\a>
+	XAMPP Server (Windows):		<a href='https://www.apachefriends.org/'>https://www.apachefriends.org/<\a>
 
 For information on configuring XAMPP see:
 	https://www.geeksforgeeks.org/how-to-set-php-development-environment-in-windows/?ref=lbp
