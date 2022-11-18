@@ -7,16 +7,16 @@ In order to use this database interface, you must have a MySQL server installed 
 on Windows 10 or later. These Instructions assume MySQL is already installed and the
 SUPPLIER-PART-SHIPMENT database has been created.
 
-Below are links where the necessary servers can be downloaded along with installation instructions:
+<br>Below are links where the necessary servers can be downloaded along with installation instructions:
 	<br>MySQL Server:			https://www.mysql.com/
 	<br>XAMPP Server (Windows):		https://www.apachefriends.org/
 
-For information on configuring XAMPP see:
-	https://www.geeksforgeeks.org/how-to-set-php-development-environment-in-windows/?ref=lbp
+<br>For information on configuring XAMPP see:
+	<br>https://www.geeksforgeeks.org/how-to-set-php-development-environment-in-windows/?ref=lbp
 
-Additional PHP servers exist for other operating systems including:
-	LAMP - For Linux:	https://bitnami.com/stack/lamp/installer
-	MAMP - For Mac OS:	https://www.mamp.info/en/downloads/
+<br>Additional PHP servers exist for other operating systems including:
+	<br>LAMP - For Linux:	https://bitnami.com/stack/lamp/installer
+	<br>MAMP - For Mac OS:	https://www.mamp.info/en/downloads/
 
 The source code for this web interface is available at https://github.com/mis2n/Database_HW6
 
